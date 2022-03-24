@@ -34,7 +34,7 @@ def solution(times, time_limit):
     if rows == 2:
         return []
     
-    # The Floyd-Warshall Algorithm
+    # Applying the Floyd-Warshall Algorithm
     for k in range(rows):
         for i in range(rows):
             for j in range(rows):

@@ -1,5 +1,7 @@
 # Google Foorbar Challenges
 
+![Result](assets/google-foobar.jpg)
+
 This repo contains all my solutions for the Google Foobar, all information here is educational only.
 
 ## Leve 1
